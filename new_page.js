@@ -60,7 +60,7 @@ async function requirements() {
         }
     }
     else
-        alert("please enter a number to add.\ninputValue:\t" + inputValue);
+        alert("please enter a number to add.");
 }
 
 
